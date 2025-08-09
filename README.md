@@ -1,2 +1,2 @@
 # Tech-nova
-provides services
+provides digital services
